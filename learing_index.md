@@ -1,5 +1,3 @@
-
-
 8. Frontend Stack
 Laravel Vite (replaces Mix)
 
